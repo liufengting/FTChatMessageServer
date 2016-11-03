@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D348E9C54BFD4047900581A833CF2214F66C5F33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : 9223372036854775807,
+    "D348E9C54BFD4047900581A833CF2214F66C5F33" : 9223372036854775807,
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807,
+    "8193123FDD91141594A2A03D04B2A90AC1927B03" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "36156C6C-DAF4-4A0A-8C2A-DBEDA50BB450",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : "FTChatMessageServer\/FTChatMessageServer\/Packages\/PerfectNet-2.0.3\/",
+    "D348E9C54BFD4047900581A833CF2214F66C5F33" : "FTChatMessageServer\/",
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "FTChatMessageServer\/FTChatMessageServer\/Packages\/PerfectHTTP-2.0.5\/",
+    "8193123FDD91141594A2A03D04B2A90AC1927B03" : "FTChatMessageServer\/FTChatMessageServer\/Packages\/PerfectWebSockets-2.0.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FTChatMessageServer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FTChatMessageServer\/FTChatMessageServer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/Perfect-Net.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F1260245BD69EFA9A05D126763C86280510C6E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/Perfect-WebSockets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8193123FDD91141594A2A03D04B2A90AC1927B03"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/Perfect-HTTP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9197B75B1BC29921D6E3B1CCDC2B258350009F3A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liufengting\/FTChatMessageServer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D348E9C54BFD4047900581A833CF2214F66C5F33"
+    }
+  ]
+}
