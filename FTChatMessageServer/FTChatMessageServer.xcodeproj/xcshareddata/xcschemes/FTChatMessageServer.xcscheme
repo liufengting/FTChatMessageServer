@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_PerfectLib"
+               BlueprintIdentifier = "OBJ_733"
                BuildableName = "PerfectLib.framework"
                BlueprintName = "PerfectLib"
                ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_COpenSSL"
+               BlueprintIdentifier = "OBJ_749"
                BuildableName = "COpenSSL.framework"
                BlueprintName = "COpenSSL"
                ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
@@ -42,7 +42,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_PerfectThread"
+               BlueprintIdentifier = "OBJ_1437"
                BuildableName = "PerfectThread.framework"
                BlueprintName = "PerfectThread"
                ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
@@ -56,7 +56,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_PerfectNet"
+               BlueprintIdentifier = "OBJ_1445"
                BuildableName = "PerfectNet.framework"
                BlueprintName = "PerfectNet"
                ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
@@ -70,7 +70,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_PerfectHTTP"
+               BlueprintIdentifier = "OBJ_1460"
                BuildableName = "PerfectHTTP.framework"
                BlueprintName = "PerfectHTTP"
                ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
@@ -84,23 +84,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_PerfectWebSockets"
+               BlueprintIdentifier = "OBJ_1483"
                BuildableName = "PerfectWebSockets.framework"
                BlueprintName = "PerfectWebSockets"
-               ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_FTChatMessageServer"
-               BuildableName = "FTChatMessageServer.framework"
-               BlueprintName = "FTChatMessageServer"
                ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -129,7 +115,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "______Target_PerfectLib"
+            BlueprintIdentifier = "OBJ_733"
             BuildableName = "PerfectLib.framework"
             BlueprintName = "PerfectLib"
             ReferencedContainer = "container:FTChatMessageServer.xcodeproj">
